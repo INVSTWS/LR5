@@ -1,3 +1,5 @@
+
+//NEW COMMENT
 // Абстрактний клас для базового калькулятора
 abstract class AbstractCalc {
     protected String model;
