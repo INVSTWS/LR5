@@ -9,7 +9,7 @@ abstract class AbstractCalc {
     public String getModel() {
         return model;
     }
-
+//1
     // Абстрактні методи для арифметичних операцій
     public abstract double add(double a, double b);
 
