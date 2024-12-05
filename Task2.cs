@@ -1,4 +1,4 @@
-
+//MAGICK COMMENT 2232324242
 //NEW COMMENT
 // Абстрактний клас для базового калькулятора
 abstract class AbstractCalc {
