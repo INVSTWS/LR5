@@ -1,6 +1,7 @@
 
 //NEW COMMENT
-// Абстрактний клас для базового калькулятора
+//ADOQNDOQIDNWQIODN
+// Абстрактний клас для базового калькулятора   
 abstract class AbstractCalc {
     protected String model;
 
