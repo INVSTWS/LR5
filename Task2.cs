@@ -1,7 +1,4 @@
-//MAGICK COMMENT 2232324242
-//NEW COMMENT
-//ADOQNDOQIDNWQIODN
-// Абстрактний клас для базового калькулятора   
+//FIRST COMMENT
 abstract class AbstractCalc {
     protected String model;
 
