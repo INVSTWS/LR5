@@ -1,4 +1,5 @@
 //FIRST COMMENT
+//Second comment by David
 abstract class AbstractCalc {
     protected String model;
 
